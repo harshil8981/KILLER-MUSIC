@@ -20,7 +20,7 @@ from DAXXMUSIC.misc import SUDOERS
 
 
 
-BOT_LIST = ["NexikoBot", "GITHUBCONTROLROBOT"]
+BOT_LIST = ["MRKILLERMUSIC_BOT", "MrkillerDevelopeBot", "IMDB_HPBot", "MRKILLER_STRING_BOT", "Mrkiller_filestore_bot"]
 
 
 
