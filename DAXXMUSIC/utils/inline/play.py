@@ -68,11 +68,11 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✪ᔕᑌᑭᑭOᖇT GᖇOᑌᑭ✪",
+                text="✪GᖇOᑌᑭ✪",
                 url=f"https://t.me/HP_Bot_discuss_group",
             ),
             InlineKeyboardButton(
-                text="✪ᑌᑭᗪᗩTE ᑕᕼᗩᑎᑎEᒪ✪",
+                text="✪ᑕᕼᗩᑎᑎEᒪ✪",
                 url=f"https://t.me/Hpbot_update",
             ),
         ],
@@ -100,14 +100,14 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="✪ᔕᑌᑭᑭOᖇT GᖇOᑌᑭ✪",
+                text="✪GᖇOᑌᑭ✪",
 
                 url=f"https://t.me/HP_Bot_discuss_group",
 
             ),
             InlineKeyboardButton(
 
-                text="✪ᑌᑭᗪᗩTE ᑕᕼᗩᑎᑎEᒪ✪",
+                text="✪ᑕᕼᗩᑎᑎEᒪ✪",
 
                 url=f"https://t.me/Hpbot_update",
 
