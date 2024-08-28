@@ -68,17 +68,17 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="✪ʟɪꜰᴇ✪",
+                text="✪ᔕᑌᑭᑭOᖇT GᖇOᑌᑭ✪",
                 url=f"https://t.me/HP_Bot_discuss_group",
             ),
             InlineKeyboardButton(
-                text="✪ᴊᴀɴɴ✪",
+                text="✪ᑌᑭᗪᗩTE ᑕᕼᗩᑎᑎEᒪ✪",
                 url=f"https://t.me/Hpbot_update",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="✪ᴏᴡɴᴇʀ✪",
+                text="✪OᗯᑎEᖇ✪",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
         ],
@@ -100,14 +100,14 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="✪ʟɪꜰᴇ✪",
+                text="✪ᔕᑌᑭᑭOᖇT GᖇOᑌᑭ✪",
 
                 url=f"https://t.me/HP_Bot_discuss_group",
 
             ),
             InlineKeyboardButton(
 
-                text="✪ᴊᴀɴɴ✪",
+                text="✪ᑌᑭᗪᗩTE ᑕᕼᗩᑎᑎEᒪ✪",
 
                 url=f"https://t.me/Hpbot_update",
 
@@ -117,7 +117,7 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="✪ᴏᴡɴᴇʀ✪",
+                text="✪OᗯᑎEᖇ✪",
 
                 url=f"t.me/{OWNER_USERNAME}",
 
